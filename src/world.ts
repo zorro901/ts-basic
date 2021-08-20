@@ -8,8 +8,4 @@ export default class World {
       elem.innerText = this.message
     }
   }
-
-
-
-  
 }
