@@ -32,8 +32,15 @@
 // typeAliasSample()
 
 // 06.配列とタプルの型定義
-import arraySample from "./array/array";
-import tupleSample from "./array/taple";
+// import arraySample from './array/array'
+// import tupleSample from './array/taple'
+//
+// arraySample()
+// tupleSample()
 
-arraySample();
-tupleSample()
+// 07.ジェネリック型とポリモーフィズム
+
+import genericsBasicSample from "./generics/basic";
+import genericsAdvancedSample from "./generics/advanced";
+genericsBasicSample()
+genericsAdvancedSample()
